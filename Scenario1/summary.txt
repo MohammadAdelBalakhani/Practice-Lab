@@ -1,0 +1,13 @@
+Practical Technical Test:
+
+1. Name all the equipment according to the image above.
+
+2. Configure the specified IP addresses on the designated devices.
+
+3. Define VLANs on all switches, and if necessary, configure Trunk.
+
+4. Set up a GRE tunnel connection between routers R1 and R2, and ensure connectivity for all networks through the GRE tunnel.
+
+5. On switch SW3, use STP to configure the default path for 20 VLANs to pass through SW1 to SW2 to SW3, with an alternate path through SW1 to SW3 in case of failure.
+
+6. On router R2, enable internet access using the DHCP Client feature, and configure the MikroTik firewall to ensure that both ranges connected to router R2 have internet access. A successful PING test to 8.8.8.8 should verify the configuration.
